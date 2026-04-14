@@ -5,7 +5,7 @@ title: Privacy Policy
 
 **Last updated: 13 April 2026**
 
-This Privacy Policy describes how Andre D. Lopes Santos ("we", "us", or "our") handles information in connection with the Scripture Hub mobile application (the "App").
+This Privacy Policy describes how Andre D. Lopes Santos ("we", "us", or "our") handles information in connection with the Scripture Timeline mobile application (the "App").
 
 We have designed the App to collect as little personal information as possible. Please read this policy carefully.
 
